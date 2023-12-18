@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Rebecca Francis 👋</h1>
+<h1 align="center">Hey 👋, I'm Rebecca Francis</h1>
 <h3 align="center">Data engineer passionate about using technology to solve real-world problems.</h3>
 
 - 📫 How to reach me **rebeccafrancis23@gmail.com**
